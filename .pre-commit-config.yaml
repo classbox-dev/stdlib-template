@@ -1,0 +1,5 @@
+- repo: git://github.com/mkuznets/stdlib-linter
+  sha: v0.1.0
+  hooks:
+    - id: gofmt
+    - id: stdlib-linter
