@@ -1,6 +1,8 @@
 repos:
 - repo: git://github.com/mkuznets/stdlib-linter
-  rev: v0.1.0
+  rev: master
   hooks:
+    - id: generate
     - id: gofmt
     - id: stdlib-linter
+    - id: no-untracked
