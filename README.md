@@ -1,8 +1,5 @@
 # stdlib
 
-stdlib is a challenge to implement a library of some fundamental data structures and algorithms in Go.
-Website: https://hsecode.com/stdlib
+**stdlib** is an individual project to reimplement a Go library of common data structures and algorithms using only its documentation.
 
-# Quickstart
-
-*TODO*
+See https://hsecode.com/stdlib for details.
